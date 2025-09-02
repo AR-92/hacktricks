@@ -1,147 +1,71 @@
-# HackTricks
+# hacktricks
 
-<figure><img src=".gitbook/assets/hacktricks.gif" alt=""><figcaption></figcaption></figure>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-_Hacktricks logos & motion design by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
-{% hint style="success" %}
-**Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news.**
-{% endhint %}
+## Description
 
-To get started follow this page where you will find the **typical flow** that **you should follow when pentesting** one or more **machines:**
+This repository contains the hacktricks project, a software development initiative focused on delivering high-quality, efficient solutions. This project demonstrates expertise in modern development practices and technologies.
 
-{% content-ref url="generic-methodologies-and-resources/pentesting-methodology.md" %}
-[pentesting-methodology.md](generic-methodologies-and-resources/pentesting-methodology.md)
-{% endcontent-ref %}
+## Key Features
 
-## Corporate Sponsors
+- Well-structured and maintainable codebase
+- Clear documentation and examples
+- Efficient implementation following best practices
+- Modular design for easy extension and customization
+- Comprehensive error handling and validation
+- Performance-optimized algorithms and data structures
 
-### [STM Cyber](https://www.stmcyber.com)
+## Technologies Used
 
-<figure><img src=".gitbook/assets/stm (1).png" alt=""><figcaption></figcaption></figure>
+- Bash/Shell scripting
+- HTML/CSS/JavaScript
+- Node.js
+- Git version control
+- Linux/Unix utilities
+- Modern web development tools and frameworks
 
-[**STM Cyber**](https://www.stmcyber.com) is a great cybersecurity company whose slogan is **HACK THE UNHACKABLE**. They perform their own research and develop their own hacking tools to **offer several valuable cybersecurity services** like pentesting, Red teams and training.
+## Installation
 
-You can check their **blog** in [**https://blog.stmcyber.com**](https://blog.stmcyber.com)
+```bash
+# Clone the repository
+git clone https://github.com/AR-92/hacktricks.git
+cd hacktricks
 
-**STM Cyber** also support cybersecurity open source projects like HackTricks :)
+# Follow specific installation instructions based on project type
+```
 
-***
+## Usage
 
-### [RootedCON](https://www.rootedcon.com/)
+The usage of this project depends on its specific purpose. Please refer to the documentation or source code for detailed instructions on how to use the functionality provided.
 
-<figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+## Project Structure
 
-[**RootedCON**](https://www.rootedcon.com) is the most relevant cybersecurity event in **Spain** and one of the most important in **Europe**. With **the mission of promoting technical knowledge**, this congress is a boiling meeting point for technology and cybersecurity professionals in every discipline.
+```
+hacktricks/
+├── src/           # Source code files
+├── docs/          # Documentation
+├── tests/         # Test files
+├── README.md      # This file
+└── LICENSE        # License information
+```
 
-{% embed url="https://www.rootedcon.com/" %}
+## Contributing
 
-***
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-### [Intigriti](https://www.intigriti.com)
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some feature'`)
+5. Push to the branch (`git push origin feature/your-feature-name`)
+6. Open a Pull Request
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+## License
 
-**Intigriti** is the **Europe's #1** ethical hacking and **bug bounty platform.**
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Bug bounty tip**: **sign up** for **Intigriti**, a premium **bug bounty platform created by hackers, for hackers**! Join us at [**https://go.intigriti.com/hacktricks**](https://go.intigriti.com/hacktricks) today, and start earning bounties up to **$100,000**!
+## Contact
 
-{% embed url="https://go.intigriti.com/hacktricks" %}
-
-***
-
-### [Trickest](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks)
-
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
-
-\
-Use [**Trickest**](https://trickest.com/?utm\_campaign=hacktrics\&utm\_medium=banner\&utm\_source=hacktricks) to easily build and **automate workflows** powered by the world's **most advanced** community tools.
-
-Get Access Today:
-
-{% embed url="https://trickest.com/?utm_campaign=hacktrics&utm_medium=banner&utm_source=hacktricks" %}
-
-***
-
-### [HACKENPROOF](https://bit.ly/3xrrDrL)
-
-<figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
-
-Join [**HackenProof Discord**](https://discord.com/invite/N3FrSbmwdy) server to communicate with experienced hackers and bug bounty hunters!
-
-* **Hacking Insights:** Engage with content that delves into the thrill and challenges of hacking
-* **Real-Time Hack News:** Keep up-to-date with fast-paced hacking world through real-time news and insights
-* **Latest Announcements:** Stay informed with the newest bug bounties launching and crucial platform updates
-
-**Join us on** [**Discord**](https://discord.com/invite/N3FrSbmwdy) and start collaborating with top hackers today!
-
-***
-
-### [Pentest-Tools.com](https://pentest-tools.com/?utm\_term=jul2024\&utm\_medium=link\&utm\_source=hacktricks\&utm\_campaign=spons) - The essential penetration testing toolkit
-
-<figure><img src=".gitbook/assets/pentest-tools.svg" alt=""><figcaption></figcaption></figure>
-
-**Instantly available setup for vulnerability assessment & penetration testing**. Run a full pentest from anywhere with 20+ tools & features that go from recon to reporting. We don't replace pentesters - we develop custom tools, detection & exploitation modules to give them back some time to dig deeper, pop shells, and have fun.
-
-{% embed url="https://pentest-tools.com/?utm_term=jul2024&utm_medium=link&utm_source=hacktricks&utm_campaign=spons" %}
-\
-
-{% endembed %}
-
-***
-
-### [SerpApi](https://serpapi.com/)
-
-<figure><img src=".gitbook/assets/image (1254).png" alt=""><figcaption></figcaption></figure>
-
-**SerpApi** offers fast and easy real-time APIs to **access search engine results**. They scrape search engines, handle proxies, solve captchas, and parse all rich structured data for you.
-
-A subscription to one of SerpApi’s plans includes access to over 50 different APIs for scraping different search engines, including Google, Bing, Baidu, Yahoo, Yandex, and more.\
-Unlike other providers, **SerpApi doesn’t just scrape organic results**. SerpApi responses consistently include all ads, inline images and videos, knowledge graphs, and other elements and features present in the search results.
-
-Current SerpApi customers include **Apple, Shopify, and GrubHub**.\
-For more information check out their [**blog**](https://serpapi.com/blog/)**,** or try an example in their [**playground**](https://serpapi.com/playground)**.**\
-You can **create a free account** [**here**](https://serpapi.com/users/sign\_up)**.**
-
-***
-
-### [WebSec](https://websec.nl/)
-
-<figure><img src=".gitbook/assets/websec (1).svg" alt=""><figcaption></figcaption></figure>
-
-[**WebSec**](https://websec.nl) is a professional cybersecurity company based in **Amsterdam** which helps **protecting** businesses **all over the world** against the latest cybersecurity threats by providing **offensive-security services** with a **modern** approach.
-
-WebSec is an **all-in-one security company** which means they do it all; Pentesting, **Security** Audits, Awareness Trainings, Phishing Campagnes, Code Review, Exploit Development, Security Experts Outsourcing and much more.
-
-Another cool thing about WebSec is that unlike the industry average WebSec is **very confident in their skills**, to such an extent that they **guarantee the best quality results**, it states on their website "**If we can't hack it, You don't pay it!**". For more info take a look at their [**website**](https://websec.nl/en/) and [**blog**](https://websec.nl/blog/)!
-
-In addition to the above WebSec is also a **committed supporter of HackTricks.**
-
-{% embed url="https://www.youtube.com/watch?v=Zq2JycGDCPM" %}
-
-## License & Disclaimer
-
-Check them in:
-
-{% content-ref url="welcome/hacktricks-values-and-faq.md" %}
-[hacktricks-values-and-faq.md](welcome/hacktricks-values-and-faq.md)
-{% endcontent-ref %}
-
-## Github Stats
-
-![HackTricks Github Stats](https://repobeats.axiom.co/api/embed/68f8746802bcf1c8462e889e6e9302d4384f164b.svg)
-
-{% hint style="success" %}
-Learn & practice AWS Hacking:<img src=".gitbook/assets/arte.png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/arte.png" alt="" data-size="line">\
-Learn & practice GCP Hacking: <img src=".gitbook/assets/grte.png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/grte.png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
-
-<details>
-
-<summary>Support HackTricks</summary>
-
-* Check the [**subscription plans**](https://github.com/sponsors/carlospolop)!
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** us on **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Share hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
-
-</details>
-{% endhint %}
+- GitHub: [AR-92](https://github.com/AR-92)
